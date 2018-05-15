@@ -1,9 +1,6 @@
-import requests, json
-from time import sleep
-import http.client
+import requests
 import http.server
 import socketserver
-import json
 
 PORT = 8000
 API_URL = "https://api.genius.com"
