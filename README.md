@@ -1,2 +1,2 @@
 # genius
-buscar canciones de artistas
+No he conseguido poder buscar un artista con dos palabras en el nombre 
